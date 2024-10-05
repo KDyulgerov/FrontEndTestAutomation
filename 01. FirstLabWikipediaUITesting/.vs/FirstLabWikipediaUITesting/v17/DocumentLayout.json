@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\01. firstlabwikipediauitesting\\firstlabwikipediauitesting\\wikipediauitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|solutionrelative:firstlabwikipediauitesting\\wikipediauitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WikipediaUITesting.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
+              "RelativeDocumentMoniker": "FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
+              "RelativeToolTip": "FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:07:35.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

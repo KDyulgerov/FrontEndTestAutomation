@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLabWikipediaUITesting", "FirstLabWikipediaUITesting\FirstLabWikipediaUITesting.csproj", "{911392B7-96F3-4272-8A9A-E623517907E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911392B7-96F3-4272-8A9A-E623517907E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911392B7-96F3-4272-8A9A-E623517907E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911392B7-96F3-4272-8A9A-E623517907E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911392B7-96F3-4272-8A9A-E623517907E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8911C9B9-F2D9-4BE1-A128-7ECB8C2F2B1E}
+	EndGlobalSection
+EndGlobal
