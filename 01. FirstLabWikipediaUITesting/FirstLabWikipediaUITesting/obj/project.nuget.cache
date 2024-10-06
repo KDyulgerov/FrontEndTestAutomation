@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AAIk66SdQew=",
+  "dgSpecHash": "a+K8R3l9NoM=",
   "success": true,
   "projectFilePath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,8 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver.waitextensions\\2.0.0\\selenium.webdriver.waitextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []

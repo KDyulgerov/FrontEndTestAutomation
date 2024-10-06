@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstLabWikipediaUITesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0081685f4a8d38088f01f544415c00cfc1c6df3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417f3c4ad34fd372c7d73e6844448668f8ae56b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstLabWikipediaUITesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstLabWikipediaUITesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

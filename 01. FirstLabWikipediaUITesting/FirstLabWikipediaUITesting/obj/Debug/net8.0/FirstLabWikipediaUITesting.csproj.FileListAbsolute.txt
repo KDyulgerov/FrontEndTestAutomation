@@ -208,3 +208,5 @@ D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikip
 D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikipediaUITesting\FirstLabWikipediaUITesting\obj\Debug\net8.0\FirstLabWikipediaUITesting.pdb
 D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikipediaUITesting\FirstLabWikipediaUITesting\obj\Debug\net8.0\FirstLabWikipediaUITesting.genruntimeconfig.cache
 D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikipediaUITesting\FirstLabWikipediaUITesting\obj\Debug\net8.0\ref\FirstLabWikipediaUITesting.dll
+D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikipediaUITesting\FirstLabWikipediaUITesting\bin\Debug\net8.0\Selenium.WebDriver.WaitExtensions.dll
+D:\KD\SoftUni\Front-End Test Automation\FrontEndTestAutomation\01. FirstLabWikipediaUITesting\FirstLabWikipediaUITesting\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll

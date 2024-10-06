@@ -69,6 +69,14 @@
               "target": "Package",
               "version": "[4.25.0, )"
             },
+            "Selenium.WebDriver.WaitExtensions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"

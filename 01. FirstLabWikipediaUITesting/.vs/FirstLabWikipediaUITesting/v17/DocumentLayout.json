@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\01. firstlabwikipediauitesting\\firstlabwikipediauitesting\\waitingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|solutionrelative:firstlabwikipediauitesting\\waitingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\01. firstlabwikipediauitesting\\firstlabwikipediauitesting\\wikipediauitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{911392B7-96F3-4272-8A9A-E623517907E7}|FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting.csproj|solutionrelative:firstlabwikipediauitesting\\wikipediauitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WaitingTest.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WaitingTest.cs",
+              "RelativeDocumentMoniker": "FirstLabWikipediaUITesting\\WaitingTest.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WaitingTest.cs",
+              "RelativeToolTip": "FirstLabWikipediaUITesting\\WaitingTest.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:55:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WikipediaUITesting.cs",
               "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
               "RelativeDocumentMoniker": "FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
               "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\01. FirstLabWikipediaUITesting\\FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
               "RelativeToolTip": "FirstLabWikipediaUITesting\\WikipediaUITesting.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T19:07:35.226Z",
               "EditorCaption": ""
