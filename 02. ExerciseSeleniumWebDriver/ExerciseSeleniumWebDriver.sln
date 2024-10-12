@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseSeleniumWebDriver", "ExerciseSeleniumWebDriver\ExerciseSeleniumWebDriver.csproj", "{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingFormInputs", "HandlingFormInputs\HandlingFormInputs.csproj", "{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE30E2E-EDC8-4AB9-A3E7-87B7792E91D2}
+	EndGlobalSection
+EndGlobal
