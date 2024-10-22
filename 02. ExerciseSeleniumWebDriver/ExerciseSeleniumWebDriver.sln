@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseSeleniumWebDriver", "ExerciseSeleniumWebDriver\ExerciseSeleniumWebDriver.csproj", "{47BB5FE1-1FA5-4280-8453-3204E47EAEBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingFormInputs", "HandlingFormInputs\HandlingFormInputs.csproj", "{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingFormInputs", "HandlingFormInputs\HandlingFormInputs.csproj", "{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWebTables", "WorkingWithWebTables\WorkingWithWebTables.csproj", "{1C903F05-039C-457E-82E0-B084B9B92B02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C903F05-039C-457E-82E0-B084B9B92B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C903F05-039C-457E-82E0-B084B9B92B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C903F05-039C-457E-82E0-B084B9B92B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C903F05-039C-457E-82E0-B084B9B92B02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
