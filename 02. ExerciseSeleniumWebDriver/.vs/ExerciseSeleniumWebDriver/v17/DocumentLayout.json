@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C903F05-039C-457E-82E0-B084B9B92B02}|WorkingWithWebTables\\WorkingWithWebTables.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\02. exerciseseleniumwebdriver\\workingwithwebtables\\webtablestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C903F05-039C-457E-82E0-B084B9B92B02}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\webtablestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\02. exerciseseleniumwebdriver\\handlingforminputs\\handlingforminputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\handlingforminputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\02. exerciseseleniumwebdriver\\handlingforminputs\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2058E205-EB2F-4EAB-A8F4-F887C22A5E12}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68DE7C6F-CFDE-4ACF-BA41-17D5A3554A28}|DropDownPractice\\DropDownPractice.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\02. exerciseseleniumwebdriver\\dropdownpractice\\dropdownpracticetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DE7C6F-CFDE-4ACF-BA41-17D5A3554A28}|DropDownPractice\\DropDownPractice.csproj|solutionrelative:dropdownpractice\\dropdownpracticetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +27,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebTablesTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\WorkingWithWebTables\\WebTablesTests.cs",
-              "RelativeDocumentMoniker": "WorkingWithWebTables\\WebTablesTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\WorkingWithWebTables\\WebTablesTests.cs",
-              "RelativeToolTip": "WorkingWithWebTables\\WebTablesTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Title": "DropDownPracticeTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\DropDownPractice\\DropDownPracticeTests.cs",
+              "RelativeDocumentMoniker": "DropDownPractice\\DropDownPracticeTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\DropDownPractice\\DropDownPracticeTests.cs",
+              "RelativeToolTip": "DropDownPractice\\DropDownPracticeTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:45:29.062Z",
+              "WhenOpened": "2024-10-23T18:03:31.987Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatePicker.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\HandlingFormInputs\\DatePicker.cs",
-              "RelativeDocumentMoniker": "HandlingFormInputs\\DatePicker.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\HandlingFormInputs\\DatePicker.cs",
-              "RelativeToolTip": "HandlingFormInputs\\DatePicker.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:42:52.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HandlingFormInputs.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\HandlingFormInputs\\HandlingFormInputs.cs",
-              "RelativeDocumentMoniker": "HandlingFormInputs\\HandlingFormInputs.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\02. ExerciseSeleniumWebDriver\\HandlingFormInputs\\HandlingFormInputs.cs",
-              "RelativeToolTip": "HandlingFormInputs\\HandlingFormInputs.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAgwGgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:11:16.6Z"
             }
           ]
         }
