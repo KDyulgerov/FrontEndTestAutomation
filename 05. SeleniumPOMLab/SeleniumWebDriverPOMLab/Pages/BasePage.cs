@@ -51,7 +51,7 @@
         {
             Random random = new Random();
             var randomNumber = random.Next(1, 9999);
-            var testRandomEmail = $"testEmail{randomNumber}@example.com";
+            var testRandomEmail = $"testemail{randomNumber}@example.com";
             return testRandomEmail;
         }
     }
