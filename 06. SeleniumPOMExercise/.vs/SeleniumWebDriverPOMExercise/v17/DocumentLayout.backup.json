@@ -58,16 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -78,7 +70,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\CheckoutTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:42:01.871Z"
+              "WhenOpened": "2024-11-12T19:42:01.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,7 +83,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\HiddenMenuTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:47.796Z"
+              "WhenOpened": "2024-11-12T19:41:47.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +96,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\CartTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:30.976Z"
+              "WhenOpened": "2024-11-12T19:41:30.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -112,7 +107,7 @@
               "RelativeDocumentMoniker": "SeleniumWebDriverPOMExercise\\Tests\\InventoryTests.cs",
               "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\06. SeleniumPOMExercise\\SeleniumWebDriverPOMExercise\\Tests\\InventoryTests.cs",
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\InventoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T19:41:00.959Z",
               "EditorCaption": ""
@@ -127,7 +122,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\BaseTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:40:00.952Z"
+              "WhenOpened": "2024-11-12T19:40:00.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,7 +135,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\HiddenMenuPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:39:24.999Z"
+              "WhenOpened": "2024-11-12T19:39:24.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,7 +148,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\CheckoutPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:38:59.679Z"
+              "WhenOpened": "2024-11-12T19:38:59.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +161,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\LoginPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:36:45.467Z"
+              "WhenOpened": "2024-11-12T19:36:45.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -175,7 +174,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Tests\\LoginTests.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:40:35.578Z"
+              "WhenOpened": "2024-11-12T19:40:35.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -187,7 +187,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\BasePage.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAUwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:35:27.221Z"
+              "WhenOpened": "2024-11-12T19:35:27.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -199,7 +200,8 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\InventoryPage.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA1wBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:37:42.153Z"
+              "WhenOpened": "2024-11-12T19:37:42.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -211,7 +213,16 @@
               "RelativeToolTip": "SeleniumWebDriverPOMExercise\\Pages\\CartPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:38:31Z"
+              "WhenOpened": "2024-11-12T19:38:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
