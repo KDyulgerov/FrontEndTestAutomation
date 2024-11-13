@@ -11,7 +11,7 @@ namespace SeleniumWebDriverPOMExercise.Pages
         public BasePage(IWebDriver driver)
         {
             this.driver = driver;
-            wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            wait = new WebDriverWait(driver, TimeSpan.FromSeconds(5));
         }
 
         protected IWebElement FindElement(By by)

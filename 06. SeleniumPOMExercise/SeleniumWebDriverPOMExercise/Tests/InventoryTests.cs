@@ -2,11 +2,15 @@
 {
     public class InventoryTests : BaseTest
     {
+        [SetUp]
+        public void InventoryTestsSetUp()
+        {
+            Login("standard_user", "secret_sauce");
+        }
+
         [Test, Order(1)]
         public void TestInventoryDisplay()
         {
-            Login("standard_user", "secret_sauce");
-
             Assert.IsTrue(inventoryPage.IsInventoryDisplayed(), "The items are not displayed as expected.");
 
             Assert.IsTrue(inventoryPage.IsPageLoaded(), "The inventory page is not loaded as expected.");
@@ -15,8 +19,6 @@
         [Test, Order(2)]
         public void TestAddToCartByIndex()
         {
-            Login("standard_user", "secret_sauce");
-
             inventoryPage.AddToCartByIndex(1);
 
             inventoryPage.ClickCartLink();
@@ -29,8 +31,6 @@
         [Test, Order(3)]
         public void TestAddToCartByName()
         {
-            Login("standard_user", "secret_sauce");
-
             inventoryPage.AddToCartByName("Sauce Labs Bike Light");
 
             inventoryPage.ClickCartLink();
@@ -43,8 +43,6 @@
         [Test, Order(4)]
         public void TestInventoryPageTitle()
         {
-            Login("standard_user", "secret_sauce");
-
             Assert.That(inventoryPage.IsPageLoaded(), Is.True, "Inventory page is not loaded as expected.");
         }
     }

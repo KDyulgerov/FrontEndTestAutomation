@@ -2,8 +2,8 @@
 {
     public class CartTests : BaseTest
     {
-        [Test, Order(1)]
-        public void TestCartItemDisplayed()
+        [SetUp]
+        public void CartTestsSetUp()
         {
             Login("standard_user", "secret_sauce");
 
@@ -11,21 +11,20 @@
 
             inventoryPage.ClickCartLink();
 
+        }
+
+        [Test, Order(1)]
+        public void TestCartItemDisplayed()
+        {
             Assert.IsTrue(cartPage.IsCartItemDisplayed(), "The added item is not displayed in the cart as expected.");
         }
 
         [Test, Order(2)]
         public void TestClickCheckout()
         {
-            Login("standard_user", "secret_sauce");
-
-            inventoryPage.AddToCartByName("Sauce Labs Bike Light");
-
-            inventoryPage.ClickCartLink();
-
             cartPage.ClickCheckout();
 
-            Assert.IsTrue(checkoutPage.IsPageLoaded(), "The checkout page is not loaded as expected.");
+            Assert.IsTrue(driver.Url.Contains("checkout-step-one.html"), "The checkout page is not loaded as expected.");
         }
     }
 }
