@@ -6,7 +6,7 @@
         {
         }
 
-        public override string PageUrl => "https://wallex.global/";
+        public override string PageUrl => "https://wallex.global";
 
         protected readonly By homePageBankingHeading = By.XPath("//h1[@class='display-1 text-center']");
 

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\wllxtextingproject\\wllxtextingproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|solutionrelative:wllxtextingproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\wllxtextingproject\\wllxtextingproject\\tests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|solutionrelative:wllxtextingproject\\tests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\wllxtextingproject\\wllxtextingproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|solutionrelative:wllxtextingproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\wllxtextingproject\\wllxtextingproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|solutionrelative:wllxtextingproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA43F835-A757-4F48-94A1-F2F15B4E450C}|WllxTextingProject\\WllxTextingProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\wllxtextingproject\\wllxtextingproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePageTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\HomePageTests.cs",
+              "RelativeDocumentMoniker": "WllxTextingProject\\Tests\\HomePageTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\HomePageTests.cs",
+              "RelativeToolTip": "WllxTextingProject\\Tests\\HomePageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:37:57.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "WllxTextingProject\\GlobalUsings.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\GlobalUsings.cs",
+              "RelativeToolTip": "WllxTextingProject\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:37:36.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "WllxTextingProject\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\BasePage.cs",
+              "RelativeToolTip": "WllxTextingProject\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:37:12.891Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -39,68 +70,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomePageTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\HomePageTests.cs",
-              "RelativeDocumentMoniker": "WllxTextingProject\\Tests\\HomePageTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\HomePageTests.cs",
-              "RelativeToolTip": "WllxTextingProject\\Tests\\HomePageTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:09:36.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\BaseTest.cs",
-              "RelativeDocumentMoniker": "WllxTextingProject\\Tests\\BaseTest.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Tests\\BaseTest.cs",
-              "RelativeToolTip": "WllxTextingProject\\Tests\\BaseTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:08:46.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\HomePage.cs",
-              "RelativeDocumentMoniker": "WllxTextingProject\\Pages\\HomePage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\HomePage.cs",
-              "RelativeToolTip": "WllxTextingProject\\Pages\\HomePage.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:05:16.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasePage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\BasePage.cs",
-              "RelativeDocumentMoniker": "WllxTextingProject\\Pages\\BasePage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\Pages\\BasePage.cs",
-              "RelativeToolTip": "WllxTextingProject\\Pages\\BasePage.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:48:56.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "WllxTextingProject\\GlobalUsings.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\WllxTextingProject\\WllxTextingProject\\GlobalUsings.cs",
-              "RelativeToolTip": "WllxTextingProject\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:16:49.152Z"
             }
           ]
         }
