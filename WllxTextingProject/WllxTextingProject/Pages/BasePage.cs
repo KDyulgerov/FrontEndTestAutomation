@@ -357,6 +357,19 @@
 
             Click(productsNftLink);
 
+            var originalWindow = driver.CurrentWindowHandle;
+
+            wait.Until(d => d.WindowHandles.Count > 1);
+
+            foreach (var windowHandle in driver.WindowHandles)
+            {
+                if (windowHandle != originalWindow)
+                {
+                    driver.SwitchTo().Window(windowHandle);
+                    break;
+                }
+            }
+
             return driver.Url == "https://nft.wallex.global/" && driver.Title == "Wallex - NFT Marketplace";
         }
 
@@ -505,6 +518,19 @@
 
             Click(labsWallexLabLink);
 
+            var originalWindow = driver.CurrentWindowHandle;
+
+            wait.Until(d => d.WindowHandles.Count > 1);
+
+            foreach (var windowHandle in driver.WindowHandles)
+            {
+                if (windowHandle != originalWindow)
+                {
+                    driver.SwitchTo().Window(windowHandle);
+                    break;
+                }
+            }
+
             return driver.Url == "https://wallexlab.com" && driver.Title == "WallexLab"; // Title to be checked once website is available
         }
 
@@ -547,6 +573,19 @@
 
             Click(resourcesCustomerExperienceCenterLink);
 
+            var originalWindow = driver.CurrentWindowHandle;
+
+            wait.Until(d => d.WindowHandles.Count > 1);
+
+            foreach (var windowHandle in driver.WindowHandles)
+            {
+                if (windowHandle != originalWindow)
+                {
+                    driver.SwitchTo().Window(windowHandle);
+                    break;
+                }
+            }
+
             return driver.Url == "https://experience.wallex.global/wallex" && driver.Title == "Explore Wallex | Wallex Global";
         }
 
@@ -556,6 +595,19 @@
             actions.MoveToElement(element).Perform();
 
             Click(resourcesSystemStatusLink);
+
+            var originalWindow = driver.CurrentWindowHandle;
+
+            wait.Until(d => d.WindowHandles.Count > 1);
+
+            foreach (var windowHandle in driver.WindowHandles)
+            {
+                if (windowHandle != originalWindow)
+                {
+                    driver.SwitchTo().Window(windowHandle);
+                    break;
+                }
+            }
 
             return driver.Url == "https://experience.wallex.global/wallex/system-status" && driver.Title == "System Status | Wallex Global";
         }
@@ -576,6 +628,19 @@
             actions.MoveToElement(element).Perform();
 
             Click(resourcesWallexWhitepaperLink);
+
+            var originalWindow = driver.CurrentWindowHandle;
+
+            wait.Until(d => d.WindowHandles.Count > 1);
+
+            foreach (var windowHandle in driver.WindowHandles)
+            {
+                if (windowHandle != originalWindow)
+                {
+                    driver.SwitchTo().Window(windowHandle);
+                    break;
+                }
+            }
 
             return driver.Url == "https://experience.wallex.global/wallex/whitepaper" && driver.Title == "WhitePaper | Wallex Global";
         }
