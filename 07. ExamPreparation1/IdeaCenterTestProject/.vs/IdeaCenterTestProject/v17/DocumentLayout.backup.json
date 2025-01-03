@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\",
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\pages\\createideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\ideaeditpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\ideaeditpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\ideasreadpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\ideasreadpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\createideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\createideapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\11. exam preparation 1\\ideacentertestproject\\ideacentertestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\07. exampreparation1\\ideacentertestproject\\ideacentertestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8AFCCD-6335-4D91-94EA-D72FA89A623F}|IdeaCenterTestProject\\IdeaCenterTestProject.csproj|solutionrelative:ideacentertestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +42,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:50:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateIdeaPage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:48:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdeaEditPage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\IdeaEditPage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\IdeaEditPage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\IdeaEditPage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\IdeaEditPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:55:49.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\BasePage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwAgAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:49:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:37:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:30:13.63Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -50,93 +132,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IdeaCenterTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Tests\\IdeaCenterTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:07:26.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyIdeasPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:01:23.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\LoginPage.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\LoginPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\LoginPage.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Title": "IdeasReadPage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\IdeasReadPage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\IdeasReadPage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\IdeasReadPage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\IdeasReadPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T15:27:25.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateIdeaPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\CreateIdeaPage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T14:38:30.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\BaseTest.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Tests\\BaseTest.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Tests\\BaseTest.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Tests\\BaseTest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:49:55.96Z",
+              "WhenOpened": "2025-01-03T07:24:48.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BasePage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\BasePage.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\BasePage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\BasePage.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\BasePage.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA6wDsAAAAJAAAAAAAAAA==",
+              "Title": "MyIdeasPage.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
+              "RelativeDocumentMoniker": "IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\07. ExamPreparation1\\IdeaCenterTestProject\\IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
+              "RelativeToolTip": "IdeaCenterTestProject\\Pages\\MyIdeasPage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:49:51.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "IdeaCenterTestProject\\GlobalUsings.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\11. Exam Preparation 1\\IdeaCenterTestProject\\IdeaCenterTestProject\\GlobalUsings.cs",
-              "RelativeToolTip": "IdeaCenterTestProject\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:48:57.693Z",
+              "WhenOpened": "2025-01-02T16:01:23.696Z",
               "EditorCaption": ""
             }
           ]
