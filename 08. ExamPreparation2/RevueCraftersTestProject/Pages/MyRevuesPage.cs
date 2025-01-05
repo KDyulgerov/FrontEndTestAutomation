@@ -37,6 +37,8 @@ namespace RevueCraftersTestProject.Pages
 
         public IWebElement AllRevuesSection => FindElement(allRevuesSection);
 
+        protected readonly By emptySearchResultMessage = By.XPath("//span[@class='col-12 text-muted']");
+        
         public void OpenPage()
         {
             driver.Navigate().GoToUrl(PageUrl);
@@ -50,6 +52,11 @@ namespace RevueCraftersTestProject.Pages
         public bool IsDescriptionLastRevueTextCorrect(string lastCreatedRevueDescription)
         {
             return descriptionLastRevue.Text.Trim() == lastCreatedRevueDescription;
+        }
+
+        public bool IsSearchResultEmpty()
+        {
+            return GetText(emptySearchResultMessage) == "No Revues yet!";
         }
     }
 }

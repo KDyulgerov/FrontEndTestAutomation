@@ -6,6 +6,7 @@ namespace RevueCraftersTestProject.Tests
     {
         string? lastCreatedRevueTitle;
         string? lastCreatedRevueDescription;
+        string? updatedTitle;
 
         [Test, Order(1)]
         public void Test_CreateRevueWithInvalidData_ShouldThrowErrorMessages()
@@ -68,7 +69,7 @@ namespace RevueCraftersTestProject.Tests
 
             actions.ScrollToElement(editRevuePage.EditRevueCardElement).Perform();
 
-            string updatedTitle = "Changed Title: " + lastCreatedRevueTitle;
+            updatedTitle = "Changed Title: " + lastCreatedRevueTitle;
 
             basePage.Type(editRevuePage.editTitleInput, updatedTitle);
 
@@ -81,6 +82,52 @@ namespace RevueCraftersTestProject.Tests
             actions.ScrollToElement(myRevuesPage.AllRevuesSection).Perform();
 
             Assert.True(myRevuesPage.RevuesCards.Last().Text.Contains(updatedTitle));
+        }
+
+        [Test, Order(5)]
+        public void Test_DeleteLastCreatedRevue_ShouldSucceed()
+        {
+            myRevuesPage.OpenPage();
+
+            actions.ScrollToElement(myRevuesPage.AllRevuesSection).Perform();
+
+            var revuesCount = myRevuesPage.RevuesCards.Count;
+            Assert.That(revuesCount, Is.GreaterThan(0));
+
+            actions.ScrollToElement(myRevuesPage.deleteButtonLastRevue).Perform();
+
+            myRevuesPage.deleteButtonLastRevue.Click();
+
+            driver.Navigate().Refresh();
+
+            string expectedUrl = "https://d3s5nxhwblsjbi.cloudfront.net/Revue/MyRevues";
+
+            Assert.That(driver.Url, Is.EqualTo(expectedUrl), "Not correcrly redirected.");
+
+            actions.ScrollToElement(myRevuesPage.AllRevuesSection).Perform();
+
+            // var currentRevues = basePage.FindElements(myRevuesPage.revuesCards);
+            var currentRevues = myRevuesPage.RevuesCards;
+
+            Assert.That(currentRevues.Count, Is.LessThan(revuesCount), "The number of Revues did not decrease.");
+
+            bool isRevueDeleted = currentRevues.Any(card => card.Text.Contains(updatedTitle) && card.Text.Contains(lastCreatedRevueDescription));
+
+            Assert.False(isRevueDeleted, "The last created idea is not deleted as expected.");
+        }
+
+        [Test, Order(6)]
+        public void Test_SearchForTheDeletedOrNonExistingRevue_ShouldNotFindIt()
+        {
+            myRevuesPage.OpenPage();
+
+            actions.ScrollToElement(myRevuesPage.SearchBarElement).Perform();
+
+            myRevuesPage.SearchBarElement.Clear();
+            myRevuesPage.SearchBarElement.SendKeys(updatedTitle);
+            myRevuesPage.SearchButtonElement.Click();
+
+            Assert.True(myRevuesPage.IsSearchResultEmpty(), "The searched revue was found but should not found it.");
         }
     }
 }
