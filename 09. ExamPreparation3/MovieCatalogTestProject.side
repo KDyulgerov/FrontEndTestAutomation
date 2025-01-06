@@ -1,0 +1,365 @@
+{
+  "id": "c6258479-898f-4b4e-bccf-e6bbfd88eb83",
+  "version": "2.0",
+  "name": "MovieCatalogTestProject",
+  "url": "http://moviecatalog-env.eba-ubyppecf.eu-north-1.elasticbeanstalk.com/#about",
+  "tests": [{
+    "id": "c8865d8f-3b8f-4326-8357-7ce92dc6d3aa",
+    "name": "01. LandingPageNavigationTest",
+    "commands": [{
+      "id": "4fa6d240-9a6e-497d-acce-6f130d7f897b",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f0bc5bf8-2ddc-46e8-a7dd-3811ca92a096",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "28754370-c927-44c3-bdc2-314d340c1df5",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Movie Catalog",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cd0ac5aa-4758-4aa8-8d95-31ba3f4799dc",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger active']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "488db22a-dc2c-413f-bbb9-ef9f0bc51dab",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Our Services')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d4e9efe-7fd8-41af-8a52-04c97f8d6f53",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Login')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "daca838e-1367-4cdb-a4d0-8dc75f8b51f7",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Register')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "83f9b73a-d46b-490a-8dfe-2ecd15ea9272",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Copyrights')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "911c1ecd-0ddc-430b-b12b-306dcea3b20c",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "4fced7c1-d745-4013-bd9e-37a11ef5f90a",
+    "name": "02. LogInTest",
+    "commands": [{
+      "id": "4bfc4212-13ee-4e81-abff-e8ff05f7ed9c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fb5b4605-d426-4253-82ba-597cb8339aa7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c08c17c5-7eaa-404f-972c-13d85dcccf25",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Login')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "edaebf4d-3792-472c-b8c8-fdaa76f83e4a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='btn warning' and contains(text(), 'LOGIN HERE')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f90ed459-a3a8-4923-9378-a2484158fec3",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@type='email']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8648c507-170e-4c22-835e-e022e4f81b65",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@type='email']",
+      "targets": [],
+      "value": "stavriuser@example.com"
+    }, {
+      "id": "38b8cd06-0323-4b2c-b60e-a41f4d9f7999",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@type='password']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d58ea097-c160-41c4-b434-e7d495711beb",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@type='password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "2a9a1f08-c247-4096-9842-85b1f6b7376d",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "66a564c0-2682-4bef-b467-8bbbd3392727",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[@class='subheading mb-5']",
+      "targets": [],
+      "value": "WELCOME, STAVRIUSER!"
+    }, {
+      "id": "1d983202-d5d4-41d7-a7d5-64aa31578ced",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger active']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "94804a6f-6a5d-4149-bc54-952c8f0adade",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Add Movie')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "48dea9ef-b746-498b-b26b-f97d64aae15c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'All Movies')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e2d5298a-35b8-4c30-8a80-2939e728015c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Watched Movies')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e8831f85-3b10-46d8-8227-38c5f40e9e7b",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Unwatched Movies')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f5ca7cc-3290-4d0f-889f-3eb2304f840d",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//button[@type='submit' and contains(text(), 'Logout')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ca4a40c8-8cfb-4c16-9316-331d7372e2fa",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit' and contains(text(), 'Logout')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fb126209-9ca5-4f44-97f5-5492707d2f06",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[@class='subheading mb-5']",
+      "targets": [],
+      "value": "YOUR PERSONALIZED MOVIE SANCTUARY!"
+    }, {
+      "id": "a57c4a6b-74a3-4722-9f0e-7497b68268b4",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "93b54a04-392d-4c5f-b7cd-d64a805f1e6a",
+    "name": "03. EditProfileTest",
+    "commands": [{
+      "id": "9070377d-c279-48a5-a4a7-124e81685ce7",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "631f5ca0-52f4-4230-a8f8-04621bc79a2e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c08a664a-4e01-4150-a171-29a06b8da1a1",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Login')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1bd896dd-76ee-4fe6-b9d6-394e0246f149",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='btn warning' and contains(text(), 'LOGIN HERE')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d73ef5b7-3fb7-4109-aecf-4b3dcb364293",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@type='email']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5a6f3aff-0366-4648-a95d-9a94fa54e3fe",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@type='email']",
+      "targets": [],
+      "value": "stavriuser@example.com"
+    }, {
+      "id": "01ca2c76-6492-4d0e-a3b8-7de9efbba074",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@type='password']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0c08dd5c-47fe-44cb-8797-a9f630407e41",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@type='password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "ec7f8822-601f-41aa-8d53-dca713023aa9",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "349cc3ee-df4f-4e61-9f9d-fe9d2263d99c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//img[@class='img-fluid img-profile rounded-circle mx-auto mb-2']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "52714279-c3cf-4405-9b41-11260750c176",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='btn btn-light btn-rounded btn-block btn-lg']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "56126b55-382b-4447-8bf2-f72a66720a8a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@name='FirstName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "555c3415-7848-4ce1-91d6-ba90113ff639",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='FirstName']",
+      "targets": [],
+      "value": "Stavri Changed"
+    }, {
+      "id": "f1bd1ebb-5239-4932-8b7b-9db5584d5899",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@name='LastName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "308e1141-ef5f-4eb9-b262-653782c96b47",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='LastName']",
+      "targets": [],
+      "value": "Stavriev Changed"
+    }, {
+      "id": "3454cea6-c477-4093-9c30-bf425edb7f61",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@class='btn warning']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "93f07648-330a-41ea-9421-955855449dd3",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[@class='card-body p-4 text-black']/div/h6",
+      "targets": [],
+      "value": "STAVRI CHANGED STAVRIEV CHANGED"
+    }, {
+      "id": "6896af94-404c-4ceb-b186-05c6038e6dfe",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit' and contains(text(), 'Logout')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "30a4e51c-3589-46c6-94fa-026ed0243777",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link js-scroll-trigger' and contains(text(), 'Login')]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "31f91500-e47a-4bad-b605-97b855b89230",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c9f2a71d-bd52-4312-95ba-445c438fbcd1",
+    "name": "UserActionsTests",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["c8865d8f-3b8f-4326-8357-7ce92dc6d3aa", "4fced7c1-d745-4013-bd9e-37a11ef5f90a", "93b54a04-392d-4c5f-b7cd-d64a805f1e6a"]
+  }],
+  "urls": ["http://moviecatalog-env.eba-ubyppecf.eu-north-1.elasticbeanstalk.com/#about"],
+  "plugins": []
+}
