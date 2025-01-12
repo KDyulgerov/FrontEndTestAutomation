@@ -12,6 +12,8 @@
 
         protected LoadDelayPage loadDelayPage;
 
+        protected AjaxDataPage ajaxDataPage;
+
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
@@ -27,6 +29,7 @@
             basePage = new BasePage(driver);
             hiddenLayersPage = new HiddenLayersPage(driver);
             loadDelayPage = new LoadDelayPage(driver);
+            ajaxDataPage = new AjaxDataPage(driver);
         }
 
         [OneTimeTearDown]
