@@ -14,6 +14,10 @@
 
         protected AjaxDataPage ajaxDataPage;
 
+        protected ScrollbarsPage scrollbarsPage;
+
+        protected VisibilityPage visibilityPage;
+
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
@@ -30,6 +34,9 @@
             hiddenLayersPage = new HiddenLayersPage(driver);
             loadDelayPage = new LoadDelayPage(driver);
             ajaxDataPage = new AjaxDataPage(driver);
+            scrollbarsPage = new ScrollbarsPage(driver);
+            visibilityPage = new VisibilityPage(driver);
+
         }
 
         [OneTimeTearDown]

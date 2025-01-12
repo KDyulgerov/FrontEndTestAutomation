@@ -6,6 +6,7 @@
         public void Test_VerifyingLoadDelayPageHeading_ShouldReturnTrue()
         {
             loadDelayPage.OpenPage();
+
             Assert.True(loadDelayPage.IsPageHeadingCorrect(), "The page heading is not correct.");
         }
 

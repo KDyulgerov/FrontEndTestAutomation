@@ -1,46 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\",
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\UITestingPlaygroundTestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\pages\\ajaxdatapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\pages\\ajaxdatapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\tests\\ajaxdatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\tests\\ajaxdatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\tests\\loaddelaytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\tests\\loaddelaytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\tests\\hiddenlayerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\tests\\hiddenlayerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\frontendtestautomation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\pages\\loaddelaypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\pages\\loaddelaypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\pages\\hiddenlayerspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\pages\\hiddenlayerspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|d:\\kd\\softuni\\front-end test automation\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject\\uitestingplaygroundtestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7AC00DEA-08FC-4F89-9E05-E515619B66E4}|UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj|solutionrelative:uitestingplaygroundtestproject\\uitestingplaygroundtestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,8 +13,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,124 +26,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AjaxDataTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\AjaxDataTests.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Tests\\AjaxDataTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\AjaxDataTests.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Tests\\AjaxDataTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:24:55.294Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AjaxDataPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\AjaxDataPage.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Pages\\AjaxDataPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\AjaxDataPage.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Pages\\AjaxDataPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:24:16.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoadDelayTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\LoadDelayTests.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Tests\\LoadDelayTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\LoadDelayTests.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Tests\\LoadDelayTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:45:47.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoadDelayPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\LoadDelayPage.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Pages\\LoadDelayPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\LoadDelayPage.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Pages\\LoadDelayPage.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:49:09.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HiddenLayersPage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\HiddenLayersPage.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Pages\\HiddenLayersPage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\HiddenLayersPage.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Pages\\HiddenLayersPage.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T09:14:08.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\GlobalUsings.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\GlobalUsings.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:58:44.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HiddenLayersTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\HiddenLayersTests.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Tests\\HiddenLayersTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\HiddenLayersTests.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Tests\\HiddenLayersTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:57:13.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasePage.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\BasePage.cs",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Pages\\BasePage.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Pages\\BasePage.cs",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\Pages\\BasePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:56:47.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "BaseTest.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\FrontEndTestAutomation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
               "RelativeToolTip": "UITestingPlaygroundTestProject\\Tests\\BaseTest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:56:33.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UITestingPlaygroundTestProject.csproj",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj",
-              "RelativeDocumentMoniker": "UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj",
-              "ToolTip": "D:\\KD\\SoftUni\\Front-End Test Automation\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj",
-              "RelativeToolTip": "UITestingPlaygroundTestProject\\UITestingPlaygroundTestProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T08:54:27.929Z"
+              "WhenOpened": "2025-01-12T15:37:29.113Z",
+              "EditorCaption": ""
             }
           ]
         }

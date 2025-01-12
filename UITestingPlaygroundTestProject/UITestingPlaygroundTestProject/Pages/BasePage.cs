@@ -1,7 +1,4 @@
-﻿using OpenQA.Selenium.Interactions;
-using SeleniumExtras.WaitHelpers;
-
-namespace UITestingPlaygroundTestProject.Pages
+﻿namespace UITestingPlaygroundTestProject.Pages
 {
     public class BasePage
     {
@@ -14,7 +11,7 @@ namespace UITestingPlaygroundTestProject.Pages
         public static readonly string BaseUrl = "http://www.uitestingplayground.com";
 
         // Locators
-        protected readonly By loadDelayButton = By.LinkText("Load Delay");
+        protected readonly By loadDelayButton = By.XPath("//a[@href='/loaddelay']"); //By.LinkText("Load Delay");
         public IWebElement LoadDelayButton => FindElement(loadDelayButton);
 
         public BasePage(IWebDriver driver)

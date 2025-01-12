@@ -30,7 +30,7 @@
         {
             LoadDelayButton.Click();
 
-            var DelayButton = FindElementWithCustomTimeout(delayButton, 20);
+            var DelayButton = FindElementWithCustomTimeout(delayButton, 30);
 
             var buttonClicked = true;
 

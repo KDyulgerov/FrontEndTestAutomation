@@ -1,6 +1,4 @@
-﻿using UITestingPlaygroundTestProject.Pages;
-
-namespace UITestingPlaygroundTestProject.Tests
+﻿namespace UITestingPlaygroundTestProject.Tests
 {
     public class AjaxDataTests : BaseTest
     {
