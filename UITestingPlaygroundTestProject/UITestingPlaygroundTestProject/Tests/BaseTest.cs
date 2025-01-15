@@ -18,6 +18,8 @@
 
         protected VisibilityPage visibilityPage;
 
+        protected DynamicTable dynamicTable;
+
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
@@ -36,7 +38,7 @@
             ajaxDataPage = new AjaxDataPage(driver);
             scrollbarsPage = new ScrollbarsPage(driver);
             visibilityPage = new VisibilityPage(driver);
-
+            dynamicTable = new DynamicTable(driver);
         }
 
         [OneTimeTearDown]

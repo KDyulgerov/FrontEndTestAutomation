@@ -30,12 +30,28 @@
         }
         public IWebElement FindElement(By by)
         {
-            return wait.Until(ExpectedConditions.ElementIsVisible(by));
+            try
+            {
+                return wait.Until(ExpectedConditions.ElementIsVisible(by));
+            }
+            catch (WebDriverTimeoutException e)
+            {
+                // Log the error with details about the element
+                throw new NoSuchElementException($"Element not found: {by}", e);
+            }
         }
 
         public IReadOnlyCollection<IWebElement> FindElements(By by)
         {
-            return wait.Until(ExpectedConditions.PresenceOfAllElementsLocatedBy(by));
+            try
+            {
+                return wait.Until(ExpectedConditions.PresenceOfAllElementsLocatedBy(by));
+            }
+            catch (WebDriverTimeoutException e)
+            {
+                // Log the error with details about the element collection
+                throw new NoSuchElementException($"Elements not found: {by}", e);
+            }
         }
 
         public void Type(By by, string text)
