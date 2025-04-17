@@ -1,10 +1,10 @@
-﻿namespace IdeaCenterTestProject.Pages
+﻿namespace FoodyTestProject.Pages
 {
     public class BasePage
     {
-        protected readonly IWebDriver driver;
+        protected IWebDriver driver;
 
-        protected readonly WebDriverWait wait;
+        protected WebDriverWait wait;
 
         public BasePage(IWebDriver driver)
         {
@@ -12,23 +12,15 @@
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
         }
 
-        protected static readonly string BaseUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:83";
+        protected static readonly string BaseUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85";
 
-        // Locating base page elements
+        // Locating Base Page Elements
 
-        public readonly By loginButton = By.XPath("//a[@class='btn btn-outline-info px-3 me-2']");
+        public readonly By loginButton = By.XPath("//a[@class='nav-link' and contains(text(), 'Log In')]");
 
-        public readonly By signUpForFreeButton = By.XPath("//a[@class='btn btn-primary me-3']");
+        public readonly By signUpButton = By.XPath("//a[@class='nav-link' and contains(text(), 'Sign Up')]");
 
-        public readonly By homeLink = By.XPath("//a[@class='nav-link']");
-
-        public readonly By myProfileLink = By.XPath("//a[@href='/Profile' and text()='My Profile']");
-
-        public readonly By myIdeasLink = By.XPath("//a[@href='/Ideas/MyIdeas' and text()='My Ideas']");
-
-        public readonly By createIdeaLink = By.XPath("//a[@href='/Ideas/Create' and text()='Create Idea']");
-
-        public readonly By logoutButton = By.XPath("//a[@class='btn btn-primary me-3' and contains(text(), 'Logout')]");
+        public readonly By homeLink = By.XPath("//a[@class='navbar-brand']");
 
         // Methods
 

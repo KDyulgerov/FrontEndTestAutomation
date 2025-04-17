@@ -1,6 +1,4 @@
-﻿using NUnit.Framework.Constraints;
-
-namespace IdeaCenterTestProject.Tests
+﻿namespace FoodyTestProject.Tests
 {
     public class BaseTest
     {
@@ -10,13 +8,15 @@ namespace IdeaCenterTestProject.Tests
 
         protected LoginPage loginPage;
 
-        protected CreateIdeaPage createIdeaPage;
+        protected HomePage homePage;
 
-        protected MyIdeasPage myIdeasPage;
+        protected AddFoodPage addFoodPage;
 
-        protected ReadIdeaPage readIdeaPage;
+        protected EditFoodPage editFoodPage;
 
-        protected EditIdeaPage editIdeaPage;
+        protected ProfileManagementPage profileManagementPage;
+
+        protected EditProfilePage editProfilePage;
 
         [OneTimeSetUp]
         public void OneTimeSetUp()
@@ -26,6 +26,7 @@ namespace IdeaCenterTestProject.Tests
             options.AddArgument("--disable-search-engine-choice-screen");
             options.AddArgument("--disable-features=PasswordLeakDetection");
             options.AddArgument("guest");
+            // options.AddArgument("--headless");
 
             driver = new ChromeDriver(options);
             driver.Manage().Window.Maximize();
@@ -33,13 +34,14 @@ namespace IdeaCenterTestProject.Tests
 
             basePage = new BasePage(driver);
             loginPage = new LoginPage(driver);
-            createIdeaPage = new CreateIdeaPage(driver);
-            myIdeasPage = new MyIdeasPage(driver);
-            readIdeaPage = new ReadIdeaPage(driver);
-            editIdeaPage = new EditIdeaPage(driver);
+            homePage = new HomePage(driver);
+            addFoodPage = new AddFoodPage(driver);
+            editFoodPage = new EditFoodPage(driver);
+            profileManagementPage = new ProfileManagementPage(driver);
+            editProfilePage = new EditProfilePage(driver);
 
             loginPage.OpenPage();
-            loginPage.Login("alabala@example.com", "123456");
+            loginPage.Login("Alabala456", "123456abcD");
         }
 
         [OneTimeTearDown]
@@ -52,7 +54,7 @@ namespace IdeaCenterTestProject.Tests
             }
         }
 
-        public string GenerateRandomString(int length)
+        protected static string GenerateRandomString(int length)
         {
             const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
             var random = new Random();
